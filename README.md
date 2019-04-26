@@ -7,5 +7,6 @@
 * [git集成使用禁忌](http://note.youdao.com/noteshare?id=de1b80915bc531610df0e5b5aa06b2e0&sub=AC70E191DED146CE957E59C80CB61F8F)
 * [初始GitHub](http://note.youdao.com/noteshare?id=7e13d0f29e5e4f8ebdf70959a0a386c5&sub=8F05EE9484CA44089B731D443A7A315C)
 * [使用GitHub进行团队协作](http://note.youdao.com/noteshare?id=54da50fbe81ecc852c8e49d79e72c3fe&sub=4E36597DE2BF443FA451FD1E8FFF9641)
+* [GitLab实践](http://note.youdao.com/noteshare?id=f3fdcec597f5e269d51f8ee0c0cc6702&sub=18FAF7AA30EB44F2BA62BB9885BAC22F)
 
 ![tutorial_overview](./images/tutorial_overview.png)
